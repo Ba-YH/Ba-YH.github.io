@@ -1324,7 +1324,7 @@ canvas:not(#ribbon-canvas),
   }
 }
 :root {
-  --global-font-size: 14px;
+  --global-font-size: 16px;
   --global-bg: #fff;
   --font-color: #4c4948;
   --hr-border: #a4d8fa;
@@ -1402,7 +1402,7 @@ h4,
 h5,
 h6 {
   position: relative;
-  margin: 20px 0 14px;
+  margin: 30px 0 20px;
   color: var(--text-highlight-color);
   font-weight: bold;
 }
